@@ -1,0 +1,46 @@
+.main{
+    min-height: 91vh;
+}
+.poster{
+   
+    height: 83vh;
+}
+/* .number{
+    background-color: #969AC3;
+    border-radius: 0px 50px 50px 0px;
+} */
+.imgarea{
+    background-color:#969AC3;
+}
+.pic1{
+    height: 40%;
+}
+.pic2{
+    height: 60%;
+}
+.pic3{
+    height: 60%;
+}
+.pic4{
+    height: 60%;
+}
+/* .page2{
+    min-height: 80vh;
+} */
+.imgarea2{
+    background-color: #BFC396;
+}
+/* .number2{
+    background-color:  #BFC396;
+    border-radius: 50px 0px 0px 50px;
+} */
+.roll{
+    background:#C39996;
+    min-height:40vh;
+    position:relative;
+   
+}
+.rollup{
+    min-height: 80vh;
+}
+            
